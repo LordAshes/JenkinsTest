@@ -6,3 +6,5 @@ This is an action in response to Redmine Issue #6
 Testing integration with Redmine.
 
 New commit.
+
+Another.
