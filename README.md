@@ -8,3 +8,5 @@ Testing integration with Redmine.
 New commit.
 
 Another.
+
+And Another.
