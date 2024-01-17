@@ -10,3 +10,5 @@ New commit.
 Another.
 
 And Another.
+
+Testing GitHook.
